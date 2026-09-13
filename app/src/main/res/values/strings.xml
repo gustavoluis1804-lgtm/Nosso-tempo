@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Nosso Tempo</string>
+    <string name="foreground_description">Mantém o contador flutuante funcionando</string>
+</resources>
